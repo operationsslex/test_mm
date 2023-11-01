@@ -1,0 +1,7 @@
+{
+  "BTC/USDC": {  // pair name
+    "price": 0.0001, // central price
+    "up": 0.1, // percent deviation top line 1% = 0.01
+    "down": 0.1  // percent deviation bottom line 1% = 0.01
+  }
+}
